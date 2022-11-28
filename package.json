@@ -1,7 +1,6 @@
 {
   "name": "handlebars-assignment-2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,15 @@
     "express": "^4.18.2",
     "express-handlebars": "^6.0.6",
     "hbs": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepxdxd/Handlebars-Assignment2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pradeepxdxd/Handlebars-Assignment2/issues"
+  },
+  "homepage": "https://github.com/pradeepxdxd/Handlebars-Assignment2#readme",
+  "description": ""
 }
